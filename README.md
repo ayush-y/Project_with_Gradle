@@ -15,6 +15,8 @@ JUnit - Unit testing framework
 🎯 Contribution
 Feel free to contribute by submitting pull requests or suggesting improvements.
 
+Build in kotlin
+
 📄 License
 This project is licensed under MIT License.
 
