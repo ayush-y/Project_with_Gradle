@@ -1,7 +1,6 @@
 ###⚡ Features
 Automated dependency management
 
-'''agsl 
   Efficient build process using Gradle
 
   Structured project with modular components
