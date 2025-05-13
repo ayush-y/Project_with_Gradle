@@ -1,9 +1,11 @@
-⚡ Features
+###⚡ Features
 Automated dependency management
 
-Efficient build process using Gradle
+'''agsl 
+  Efficient build process using Gradle
 
-Structured project with modular components
+  Structured project with modular components
+  '''
 
 🛠️ Technologies Used
 Java - Primary programming language
